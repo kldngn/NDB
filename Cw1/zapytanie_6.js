@@ -1,0 +1,1 @@
+db.people.insertOne( { _id: ObjectId("626d30e6cad2bcd409eee02f"), sex: "Female", first_name: "Lan Dung", last_name: "Nguyen", job: "Student", email: "s26341@pjwstk.edu.pl" } );
