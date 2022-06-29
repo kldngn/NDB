@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvum9xgKxjqUDJCSIWmr8fPCauJA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s26341>; rel="up"
+Last-Modified: Mon, 20 Jun 2022 20:54:23 GMT
+ETag: "4sSAmNzPyJNZlJWp5xkdEG"
+Date: Mon, 20 Jun 2022 21:02:45 GMT
+Content-Type: application/json
+Content-Length: 81
+{"brand": "Kawasaki", "model": "ZX6R", "productionYear": 2005, "horsePower": 136}
