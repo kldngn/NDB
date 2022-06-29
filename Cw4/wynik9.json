@@ -1,0 +1,297 @@
+﻿[
+  {
+    "Airport": "BIL",
+    "Airline": "19977",
+    "total": 1
+  },
+  {
+    "Airport": "CLT",
+    "Airline": "19977",
+    "total": 1
+  },
+  {
+    "Airport": "DCA",
+    "Airline": "19977",
+    "total": 1
+  },
+  {
+    "Airport": "DFW",
+    "Airline": "20304",
+    "total": 1
+  },
+  {
+    "Airport": "FLL",
+    "Airline": "19977",
+    "total": 1
+  },
+  {
+    "Airport": "IND",
+    "Airline": "19977",
+    "total": 1
+  },
+  {
+    "Airport": "KOA",
+    "Airline": "19977",
+    "total": 1
+  },
+  {
+    "Airport": "MCI",
+    "Airline": "19977",
+    "total": 1
+  },
+  {
+    "Airport": "MIA",
+    "Airline": "20304",
+    "total": 1
+  },
+  {
+    "Airport": "MOB",
+    "Airline": "20304",
+    "total": 1
+  },
+  {
+    "Airport": "MSN",
+    "Airline": "19977",
+    "total": 1
+  },
+  {
+    "Airport": "PBI",
+    "Airline": "20304",
+    "total": 1
+  },
+  {
+    "Airport": "PHX",
+    "Airline": "20304",
+    "total": 1
+  },
+  {
+    "Airport": "RIC",
+    "Airline": "19977",
+    "total": 1
+  },
+  {
+    "Airport": "ROC",
+    "Airline": "19977",
+    "total": 1
+  },
+  {
+    "Airport": "SAT",
+    "Airline": "19977",
+    "total": 1
+  },
+  {
+    "Airport": "SEA",
+    "Airline": "20304",
+    "total": 1
+  },
+  {
+    "Airport": "SFO",
+    "Airline": "20304",
+    "total": 1
+  },
+  {
+    "Airport": "SLC",
+    "Airline": "19977",
+    "total": 1
+  },
+  {
+    "Airport": "SMF",
+    "Airline": "19977",
+    "total": 1
+  },
+  {
+    "Airport": "ATL",
+    "Airline": "19977",
+    "total": 2
+  },
+  {
+    "Airport": "CMH",
+    "Airline": "19977",
+    "total": 2
+  },
+  {
+    "Airport": "LAS",
+    "Airline": "19977",
+    "total": 2
+  },
+  {
+    "Airport": "LGA",
+    "Airline": "19977",
+    "total": 2
+  },
+  {
+    "Airport": "PHX",
+    "Airline": "19977",
+    "total": 2
+  },
+  {
+    "Airport": "SEA",
+    "Airline": "19977",
+    "total": 2
+  },
+  {
+    "Airport": "SJC",
+    "Airline": "19977",
+    "total": 2
+  },
+  {
+    "Airport": "SNA",
+    "Airline": "19977",
+    "total": 2
+  },
+  {
+    "Airport": "TUS",
+    "Airline": "20304",
+    "total": 2
+  },
+  {
+    "Airport": "DFW",
+    "Airline": "19977",
+    "total": 3
+  },
+  {
+    "Airport": "SBN",
+    "Airline": "20304",
+    "total": 3
+  },
+  {
+    "Airport": "ABQ",
+    "Airline": "20304",
+    "total": 4
+  },
+  {
+    "Airport": "BHM",
+    "Airline": "20304",
+    "total": 4
+  },
+  {
+    "Airport": "BOS",
+    "Airline": "19977",
+    "total": 4
+  },
+  {
+    "Airport": "CVG",
+    "Airline": "20304",
+    "total": 4
+  },
+  {
+    "Airport": "DLH",
+    "Airline": "20304",
+    "total": 4
+  },
+  {
+    "Airport": "FAT",
+    "Airline": "20304",
+    "total": 4
+  },
+  {
+    "Airport": "MCO",
+    "Airline": "19977",
+    "total": 4
+  },
+  {
+    "Airport": "MSP",
+    "Airline": "19977",
+    "total": 4
+  },
+  {
+    "Airport": "PDX",
+    "Airline": "19977",
+    "total": 4
+  },
+  {
+    "Airport": "SAN",
+    "Airline": "19977",
+    "total": 4
+  },
+  {
+    "Airport": "SLC",
+    "Airline": "20304",
+    "total": 4
+  },
+  {
+    "Airport": "FSD",
+    "Airline": "20304",
+    "total": 5
+  },
+  {
+    "Airport": "HNL",
+    "Airline": "19977",
+    "total": 5
+  },
+  {
+    "Airport": "LAX",
+    "Airline": "19977",
+    "total": 5
+  },
+  {
+    "Airport": "MSP",
+    "Airline": "20304",
+    "total": 5
+  },
+  {
+    "Airport": "EWR",
+    "Airline": "19977",
+    "total": 7
+  },
+  {
+    "Airport": "MOT",
+    "Airline": "20304",
+    "total": 8
+  },
+  {
+    "Airport": "IAH",
+    "Airline": "19977",
+    "total": 11
+  },
+  {
+    "Airport": "BNA",
+    "Airline": "20304",
+    "total": 12
+  },
+  {
+    "Airport": "IAD",
+    "Airline": "19977",
+    "total": 12
+  },
+  {
+    "Airport": "IAH",
+    "Airline": "20304",
+    "total": 12
+  },
+  {
+    "Airport": "AZO",
+    "Airline": "20304",
+    "total": 13
+  },
+  {
+    "Airport": "ORD",
+    "Airline": "20304",
+    "total": 13
+  },
+  {
+    "Airport": "SFO",
+    "Airline": "19977",
+    "total": 13
+  },
+  {
+    "Airport": "LAX",
+    "Airline": "20304",
+    "total": 17
+  },
+  {
+    "Airport": "DEN",
+    "Airline": "19977",
+    "total": 18
+  },
+  {
+    "Airport": "DTW",
+    "Airline": "20304",
+    "total": 25
+  },
+  {
+    "Airport": "ORD",
+    "Airline": "19977",
+    "total": 35
+  }
+]

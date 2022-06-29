@@ -1,0 +1,164 @@
+﻿[
+  {
+    "r": [
+      {
+        "identity": 4,
+        "start": 2,
+        "end": 3,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "r2": [
+      {
+        "identity": 18,
+        "start": 7,
+        "end": 2,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 14,
+        "start": 6,
+        "end": 7,
+        "type": "road",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 12,
+        "start": 1,
+        "end": 6,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      }
+    ]
+  },
+  {
+    "r": [
+      {
+        "identity": 4,
+        "start": 2,
+        "end": 3,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 17,
+        "start": 7,
+        "end": 2,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 13,
+        "start": 6,
+        "end": 7,
+        "type": "trek",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "r2": [
+      {
+        "identity": 12,
+        "start": 1,
+        "end": 6,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      }
+    ]
+  },
+  {
+    "r": [
+      {
+        "identity": 4,
+        "start": 2,
+        "end": 3,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 17,
+        "start": 7,
+        "end": 2,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "r2": [
+      {
+        "identity": 14,
+        "start": 6,
+        "end": 7,
+        "type": "road",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 12,
+        "start": 1,
+        "end": 6,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      }
+    ]
+  }
+]

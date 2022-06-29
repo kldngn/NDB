@@ -1,0 +1,286 @@
+﻿[
+  {
+    "airport.name": "ORD",
+    "flight_count": 90
+  },
+  {
+    "airport.name": "LAX",
+    "flight_count": 41
+  },
+  {
+    "airport.name": "DTW",
+    "flight_count": 41
+  },
+  {
+    "airport.name": "IAH",
+    "flight_count": 39
+  },
+  {
+    "airport.name": "AZO",
+    "flight_count": 38
+  },
+  {
+    "airport.name": "SFO",
+    "flight_count": 36
+  },
+  {
+    "airport.name": "DEN",
+    "flight_count": 35
+  },
+  {
+    "airport.name": "MSP",
+    "flight_count": 26
+  },
+  {
+    "airport.name": "IAD",
+    "flight_count": 19
+  },
+  {
+    "airport.name": "EWR",
+    "flight_count": 18
+  },
+  {
+    "airport.name": "BNA",
+    "flight_count": 12
+  },
+  {
+    "airport.name": "ABQ",
+    "flight_count": 11
+  },
+  {
+    "airport.name": "CRP",
+    "flight_count": 9
+  },
+  {
+    "airport.name": "MCO",
+    "flight_count": 9
+  },
+  {
+    "airport.name": "FAT",
+    "flight_count": 8
+  },
+  {
+    "airport.name": "BOS",
+    "flight_count": 8
+  },
+  {
+    "airport.name": "MOT",
+    "flight_count": 8
+  },
+  {
+    "airport.name": "PDX",
+    "flight_count": 7
+  },
+  {
+    "airport.name": "SMF",
+    "flight_count": 7
+  },
+  {
+    "airport.name": "HNL",
+    "flight_count": 7
+  },
+  {
+    "airport.name": "SAN",
+    "flight_count": 7
+  },
+  {
+    "airport.name": "SEA",
+    "flight_count": 6
+  },
+  {
+    "airport.name": "ATL",
+    "flight_count": 6
+  },
+  {
+    "airport.name": "LGA",
+    "flight_count": 6
+  },
+  {
+    "airport.name": "PHX",
+    "flight_count": 5
+  },
+  {
+    "airport.name": "FSD",
+    "flight_count": 5
+  },
+  {
+    "airport.name": "GRR",
+    "flight_count": 5
+  },
+  {
+    "airport.name": "DAY",
+    "flight_count": 5
+  },
+  {
+    "airport.name": "DFW",
+    "flight_count": 5
+  },
+  {
+    "airport.name": "SLC",
+    "flight_count": 5
+  },
+  {
+    "airport.name": "LAS",
+    "flight_count": 5
+  },
+  {
+    "airport.name": "PIT",
+    "flight_count": 4
+  },
+  {
+    "airport.name": "OMA",
+    "flight_count": 4
+  },
+  {
+    "airport.name": "BHM",
+    "flight_count": 4
+  },
+  {
+    "airport.name": "CVG",
+    "flight_count": 4
+  },
+  {
+    "airport.name": "TUS",
+    "flight_count": 4
+  },
+  {
+    "airport.name": "DLH",
+    "flight_count": 4
+  },
+  {
+    "airport.name": "CMH",
+    "flight_count": 3
+  },
+  {
+    "airport.name": "SJC",
+    "flight_count": 3
+  },
+  {
+    "airport.name": "MIA",
+    "flight_count": 3
+  },
+  {
+    "airport.name": "SBN",
+    "flight_count": 3
+  },
+  {
+    "airport.name": "TPA",
+    "flight_count": 3
+  },
+  {
+    "airport.name": "AUS",
+    "flight_count": 3
+  },
+  {
+    "airport.name": "SNA",
+    "flight_count": 3
+  },
+  {
+    "airport.name": "MSN",
+    "flight_count": 2
+  },
+  {
+    "airport.name": "ORF",
+    "flight_count": 2
+  },
+  {
+    "airport.name": "BWI",
+    "flight_count": 2
+  },
+  {
+    "airport.name": "FAR",
+    "flight_count": 2
+  },
+  {
+    "airport.name": "FLL",
+    "flight_count": 2
+  },
+  {
+    "airport.name": "ROC",
+    "flight_count": 2
+  },
+  {
+    "airport.name": "PBI",
+    "flight_count": 2
+  },
+  {
+    "airport.name": "BIL",
+    "flight_count": 1
+  },
+  {
+    "airport.name": "CLT",
+    "flight_count": 1
+  },
+  {
+    "airport.name": "DCA",
+    "flight_count": 1
+  },
+  {
+    "airport.name": "MOB",
+    "flight_count": 1
+  },
+  {
+    "airport.name": "PSP",
+    "flight_count": 1
+  },
+  {
+    "airport.name": "RSW",
+    "flight_count": 1
+  },
+  {
+    "airport.name": "BDL",
+    "flight_count": 1
+  },
+  {
+    "airport.name": "MEM",
+    "flight_count": 1
+  },
+  {
+    "airport.name": "MFE",
+    "flight_count": 1
+  },
+  {
+    "airport.name": "MSY",
+    "flight_count": 1
+  },
+  {
+    "airport.name": "BZN",
+    "flight_count": 1
+  },
+  {
+    "airport.name": "OKC",
+    "flight_count": 1
+  },
+  {
+    "airport.name": "TUL",
+    "flight_count": 1
+  },
+  {
+    "airport.name": "SGF",
+    "flight_count": 1
+  },
+  {
+    "airport.name": "RNO",
+    "flight_count": 1
+  },
+  {
+    "airport.name": "RIC",
+    "flight_count": 1
+  },
+  {
+    "airport.name": "IND",
+    "flight_count": 1
+  },
+  {
+    "airport.name": "MCI",
+    "flight_count": 1
+  },
+  {
+    "airport.name": "KOA",
+    "flight_count": 1
+  },
+  {
+    "airport.name": "SAT",
+    "flight_count": 1
+  }
+]

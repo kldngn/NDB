@@ -1,0 +1,39 @@
+1.	Znajdź trasy którymi można dostać się z Darjeeling na Sandakphu, mające najmniejszą ilość etapów 
+ MATCH (p:peak{name:'Sandakphu'}), (t:town{name:'Darjeeling'}) 
+ MATCH path = ShortestPath((p)-[*..5]-(t))
+ RETURN path
+
+2.	Znajdź mające najmniej etapów trasy którymi można dostać się z Darjeeling na Sandakphu i które mogą być wykorzystywane zimą 
+MATCH (p:peak{name:'Sandakphu'})<-[r:trek*{winter:'true'}]-(v:village)<-[r2:road*{winter:'true'}]-(t:town{name:'Darjeeling'})
+return r,r2
+
+3.Uszereguj trasy którymi można dostać się z Darjeeling na Sandakphu według dystansu 
+MATCH (p:peak{name:'Sandakphu'})<-[r:trek*]-(v:village)<-[r2:road*]-(t:town{name:'Darjeeling'})
+return r,r2
+
+4.Znajdź wszystkie miejsca do których można dotrzeć przy pomocy roweru (twowheeler) z Darjeeling latem
+MATCH (p:town{name:'Darjeeling'})-[:twowheeler*{summer:'true'}]-(t:town) 
+return DISTINCT(t.name)
+
+5.	Uszereguj porty lotnicze według ilości rozpoczynających się w nich lotów
+MATCH (airport:Airport)<-[r]-(f:Flight)  WITH airport, count(r) AS flight_count order by flight_count desc  return  airport.name , flight_count 
+
+
+6.	Znajdź wszystkie porty lotnicze, do których da się dolecieć (bezpośrednio lub z przesiadkami) z Los Angeles (LAX) wydając mniej niż 3000 
+MATCH path = (origin:Airport { name:"LAX" })<-[r:ORIGIN|DESTINATION*..5]->(destination:Airport)
+WHERE REDUCE(s = 0, n IN [x IN NODES(path) WHERE 'Flight' IN LABELS(x)] |
+  s + [(n)<-[:ASSIGN]-(ticket) | ticket.price][0]
+  ) < 3000
+RETURN path
+
+8.	Znajdź najtańsze połączenie z Los Angeles (LAX) do Dayton (DAY) 
+MATCH (a:Airport { name:'LAX' })-[:ORIGIN]-(f1:Flight)-[d:DESTINATION]-(a2:Airport)-[:ORIGIN]-(f2:Flight)-[:DESTINATION]-(a3:Airport { name:'DAY' })
+where f1.date < f2.date
+RETURN f1.date, f1.airline,  a2.name, f2.date, f2.airline, a3.name
+
+
+9.	Uszereguj linie lotnicze według ilości miast, pomiędzy którymi oferują połączenia (unikalnych miast biorących udział w relacjach :ORIGIN i :DESTINATION węzłów typu Flight obsługiwanych przez daną linię) 
+MATCH (a)<-[:ORIGIN]-(f:Flight)
+WITH a.name AS Airport, f.airline AS Airline, count(f) AS total
+ORDER BY total, Airport, Airline DESC
+RETURN Airport, Airline, total
