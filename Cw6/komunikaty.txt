@@ -1,0 +1,3 @@
+{"brand": "Kawasaki", "model": "ZX6R", "year": "2005", "horsePower": "136"}
+{"brand": "Kawasaki", "model": "ZX10R", "year": "2005", "horsePower": "180"}
+nie pobrało i nie istnieje
